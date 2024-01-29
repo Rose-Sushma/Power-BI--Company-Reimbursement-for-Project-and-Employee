@@ -1,6 +1,6 @@
 # Power-BI--Company-Reimbursement-for-Project-and-Employee
 
-Below were the instructions follwed and 
+Below were the instructions to be followed to generate a report. I have used Power Query and DAX formula.
 
 1. Import the data and opened the Power Query
 2. The expense type column has some spelling and punctuation errors, correct them
